@@ -1,0 +1,1 @@
+{ "functions": { "api/dl.js": { "maxDuration": 30 }, "api/enhance.js": { "maxDuration": 60 } } }
